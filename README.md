@@ -79,7 +79,7 @@
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muneerali199&show_icons=true&hide_border=true&title_color=0F766E&icon_color=F59E0B&text_color=334155&bg_color=ffffff00" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mishthi-30&show_icons=true&hide_border=true&title_color=0F766E&icon_color=F59E0B&text_color=334155&bg_color=ffffff00" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneerali199&layout=compact&hide_border=true&title_color=0F766E&text_color=334155&bg_color=ffffff00" alt="Top languages" />
 </p>
 
@@ -92,7 +92,7 @@ If you are looking for someone who is motivated, coachable, and serious about gr
 
 <p>
   <a href="https://github.com/Muneerali199">
-    <img src="https://img.shields.io/badge/GitHub-Muneerali199-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-mishthi-30-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 
