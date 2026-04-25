@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Library Learner | Building My Skills Through Real Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/Muneerali199">
+  <a href="https://github.com/mishthi-30">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0F766E&center=true&vCenter=true&width=720&lines=Python+developer+with+a+strong+learning+mindset;Working+with+useful+libraries+and+practical+projects;Open+to+internships%2C+collaboration%2C+and+growth" alt="Typing introduction" />
   </a>
 </p>
@@ -91,7 +91,7 @@ If you are looking for someone who is motivated, coachable, and serious about gr
 ## Connect With Me
 
 <p>
-  <a href="https://github.com/Muneerali199">
+  <a href="https://github.com/mishthi-30">
     <img src="https://img.shields.io/badge/GitHub-mishthi-30-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
